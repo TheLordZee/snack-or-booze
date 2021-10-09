@@ -2,9 +2,8 @@ import React from "react";
 import { Redirect, useParams } from "react-router-dom";
 import { Card, CardBody, CardTitle, CardText } from "reactstrap";
 
-function FoodItem({ items, cantFind }) {
+const FoodItem = ({ items, cantFind }) => {
   const { id } = useParams();
-
   let item = items.find(item => item.id === id);
   if (!item) return <Redirect to={cantFind} />;
 
