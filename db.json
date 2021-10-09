@@ -25,8 +25,8 @@
       "id": "diet-coke",
       "name": "Diet Coke",
       "description": "Crisp!",
-      "recipe": "Open can.",
-      "serve": "Immediately."
+      "recipe": "Dump in toilet.",
+      "serve": "Never."
     }
   ],
   "snacks": [
@@ -50,6 +50,16 @@
       "description": "Tart and delicious.",
       "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
       "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "id": "PbCUZML"
+    },
+    {
+      "id": "a",
+      "name": "a",
+      "description": "a",
+      "recipe": "a",
+      "serve": "a"
     }
   ]
 }
